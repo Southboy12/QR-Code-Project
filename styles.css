@@ -1,0 +1,45 @@
+body  {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: hsl(212, 45%, 89%);
+    font-family: "outfit", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    margin: 151px 560px 152px 560px;
+    align-content: center;
+  }
+
+  .main{
+    background-color: hsl(0, 0%, 100%);
+    width: fit-content;
+    border-width: 320;
+    border-radius: 15px;
+    text-align: center;
+    padding: 10px 16px 40px 16px;
+    align-self: center;
+  }
+  h1 {
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+  }
+  p {
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+  }
+  #header {
+    width: 270px;
+    text-align: center;
+  }
+  #text{
+    width: 260px;
+    text-align: center;
+  }
+  .attribution {
+    text-align: center;
+    width: 270px;
+    padding-left: 30px;
+  }
