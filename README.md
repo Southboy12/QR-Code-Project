@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img src="images/image-qr-code.png" alt="QR Code" width="300" height="200">
-
+![](images/qr_code.png)
 
 ### Links
 
