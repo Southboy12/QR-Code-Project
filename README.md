@@ -21,7 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/image-qr-code.png)
+<img src="images/image-qr-code.png" alt="QR Code" width="300" height="200">
+
 
 ### Links
 
@@ -70,7 +71,7 @@ I am committed to further honing my CSS and media query skills. These areas of e
 ## Author
 
 - Website - [Solomon Chikwendu][https://github.com/Southboy12/]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Southboy12)
+- Frontend Mentor - [@Southboy12](https://www.frontendmentor.io/profile/Southboy12)
 
 ## Acknowledgments
 
